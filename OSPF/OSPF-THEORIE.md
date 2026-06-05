@@ -47,4 +47,6 @@
 
 <b>clear ip ospf process :</b> Redémarre le processus OSPF. Obligatoire pour appliquer un nouveau router-id ou une nouvelle priorité.
 
+[⬅️ Vers les commandes](OSPF-COMMANDES.md)
+
 [⬅️ Vers le README](../README.md)

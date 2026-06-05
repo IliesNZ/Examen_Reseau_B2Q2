@@ -59,4 +59,6 @@ router ospf 10
  exit
  ```
 
+[⬅️ Vers la théorie](OSPF-THEORIE.md)
+
  [⬅️ Vers le README](../README.md)

@@ -91,5 +91,6 @@ Switch# show interfaces trunk       ! Info Trunks
 Switch# show dtp interface gi0/1    ! Voir l'état de la négociation DTP
 Switch# show interfaces fa0/1 switchport ! Détails complets couche 2
 ```
+[⬅️ Vers la théorie](VLAN-THEORIE.md)
 
 [⬅️ Vers le README](../README.md)
