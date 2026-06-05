@@ -2,7 +2,9 @@
 
 ## VLAN/TRUNK
 
-### - [Théorie](VLAN/VLAN-PRATIQUE.md)
+### - [Théorie](VLAN/VLAN-THEORIE.md)
+
+### - [Commandes](VLAN/VLAN-COMMANDES.md)
 
 ## ROUTAGE
 
@@ -20,5 +22,5 @@
 
 ### - [Théorie](OSPF/OSPF-THEORIE.md)
 
-### - [Exemple](OSPF/OSPF-PRATIQUE.md)
+### - [Commandes](OSPF/OSPF-COMMANDES.md)
 
