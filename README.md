@@ -2,7 +2,7 @@
 
 ## OSPF
 
-### - [Théorie](OSPF/OSPF-THEORIQUE.md)
+### - [Théorie](OSPF/OSPF-THEORIE.md)
 
 ### - [Exemple](OSPF/OSPF-PRATIQUE.md)
 
