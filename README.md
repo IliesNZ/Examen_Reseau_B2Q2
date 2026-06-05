@@ -5,7 +5,7 @@
 
 
 
-## OSPF - Il n'y a pas à l'examen :'(
+## OSPF - Il n'y a pas à l'examen ;)
 
 ### - [Théorie](OSPF/OSPF-THEORIE.md)
 
