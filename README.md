@@ -1,2 +1,8 @@
-# Examen_Reseau_B2Q2
-Les commandes pour l'examen de réseau B2Q2 (HELHa)
+# Examen_Réseau_B2Q2
+
+## OSPF
+
+### - [Théorie](OSPF/OSPF-THEORIQUE.md)
+
+### - [Exemple](OSPF/OSPF-PRATIQUE.md)
+
