@@ -58,3 +58,5 @@ router ospf 10
  default-information originate
  exit
  ```
+
+ [⬅️ Vers le README](../README.md)

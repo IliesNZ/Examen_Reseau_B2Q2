@@ -36,3 +36,5 @@ Bien que la configuration manuelle soit préconisée, le DTP est un mécanisme a
 ## 6. Diagnostic et Remise à Zéro
 * **Réinitialisation :** Pour remettre un commutateur à zéro concernant ses VLANs, il faut impérativement procéder à un reset complet  qui inclut la suppression de la base de données locale des VLANs.
 * **Vérifications :** Différents niveaux de diagnostic permettent d'afficher un résumé global des VLANs , de cibler les informations d'un VLAN spécifique via son numéro d'identification  ou son nom , de lister l'état des liens Trunks , et de contrôler le statut exact des négociations du protocole DTP.
+
+[⬅️ Vers le README](../README.md)
