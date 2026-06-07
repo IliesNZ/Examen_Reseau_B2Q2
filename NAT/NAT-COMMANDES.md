@@ -59,3 +59,7 @@ R2# show ip nat translations
 R2# show ip nat translation verbose                pour plus d'info
 R2# show ip nat statistics
 ```
+
+[⬅️ Vers la théorie](NAT-THEORIE.md)
+
+[⬅️ Vers le README](../README.md)

@@ -34,3 +34,7 @@ C) Le PAT (Port Address Translation) / NAT Overload
 
 ## 4. La Table NAT
 Pour que les réponses d'Internet reviennent à la bonne machine, le routeur enregistre chaque traduction active dans sa table de routage NAT. Quand un paquet de réponse arrive, il consulte cette table, traduit l'adresse IP publique de destination en l'adresse IP privée d'origine, et transmet le paquet sur le LAN.
+
+[⬅️ Vers les commandes](NAT-COMMANDES.md)
+
+[⬅️ Vers le README](../README.md)

@@ -36,3 +36,7 @@ R1# show access-lists
 Vérifier sur quelle interface et dans quelle direction l'ACL est appliquée :
 R1# show ip interface GigabitEthernet 0/0/0 | include access list
 (Le résultat affichera : Inbound access list is 10 / Outbound access list is not set)
+
+[⬅️ Vers la théorie](ACL-THEORIE.md)
+
+[⬅️ Vers le README](../README.md)
