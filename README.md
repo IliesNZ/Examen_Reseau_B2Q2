@@ -82,4 +82,10 @@ Switch0(config-if)# switchport nonegotiate
 Switch0(config-if)# switchport trunk native vlan 99
 Switch0(config-if)# switchport trunk allowed vlan 10,20,30,40,99
 Switch0(config-if)# exit
+
+! Sous-interface pour le VLAN 10 (ADMIN)
+Router0(config)# interface gig0/0.10
+Router0(config-subif)# encapsulation dot1Q 10
+Router0(config-subif)# ip address 192.168.10.254 255.255.255.0
+Router0(config-subif)# exit
 ```
